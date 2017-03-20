@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.gaoshiQQT",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "3a33b382-bc9f-4e61-b494-5b9a9d4348b6",
+  "title": "gaoshiQQT",
+  "webOrientation": "auto"
+}
